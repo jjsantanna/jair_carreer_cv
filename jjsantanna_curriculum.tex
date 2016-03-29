@@ -1,6 +1,7 @@
-\documentclass[]{friggeri-cv} % Add 'print' as an option into the square bracket to remove colors from this template for printing
+\documentclass[print]{friggeri-cv} % Add 'print' as an option into the square bracket to remove colors from this template for printing
 
-%\addbibresource{bibliography.bib} % Specify the bibliography file to include publications
+
+\addbibresource{MyCollection.bib}
 
 \begin{document}
 
@@ -230,5 +231,7 @@ IFIP Networking (2014--2016), IEEE/IFIP Network Operations and Management Sympos
 \section{Scientific Appendix}
 \subsection{Description of Ph.D. Research}
 \subsection{Publications}
+\nocite{*}
+\printbibliography[title={\emptyset}]
 
 \end{document}
