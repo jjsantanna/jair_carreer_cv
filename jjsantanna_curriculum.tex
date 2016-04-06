@@ -1,10 +1,12 @@
 \documentclass[print]{friggeri-cv} % Add 'print' as an option into the square bracket to remove colors from this template for printing
 
+\usepackage{amssymb, amsmath} 
+
 \addbibresource{mylibrary.bib}
 
 \begin{document}
 
-\header{José Jair }{Santanna}{Ph.D. Researcher, Lecturer, Network Security Specialist \& (Big) Data Analyst} 
+\header{José Jair }{Santanna}{Researcher, Lecturer, Network Security Specialist \& (Big) Data Analyst} 
 
 \begin{aside} % In the aside, each new line forces a line break
 \section{Contact}
@@ -29,7 +31,7 @@ PIG, Spark \& Impala
 
 \section{Professional Objective}
 %What are your current responsibilities?Why did you come to the UT? Why is this the right host for your research?
-I am currently a PhD candidate at University of Twente (ending in 2017) in a awesome research group called DACS. My research is founded by an European project focus in network of Excellence, called Flamingo, and funded by the Netherlands Organisation for Scientific Research in a project called D3.
+I am currently a PhD candidate at University of Twente (ending in 2017) in a research group called Design and Analysis of Communication Systems (DACS). My research is founded by the European commission via a project focus in network of excellence, called Flamingo. In addition, my research is funded by one of the main Dutch national Organisation for Scientific Research (NWO) in a project called Distributed Denial of Service Defence (D3).
 
 I am interested in a research \& development position with focus on network security and the use of big data technologies to improve network data analysis. A position where I can transfer my enthusiasm, knowledge, skills and experience into meaningful innovation that improve the security in computer networks, specially in the Internet. 
 
@@ -56,7 +58,7 @@ Supervisor: Prof. dr. Lisandro Zambenedetti Granville}
 {2005--2010}
 {Bachelor {\normalfont in Computer Engineer}}
 {Federal University of Par\'a, Brazil}
-{\emph{``A Comparative Evaluation of DCCP Protocol in a Experimental Mesh Network.''} \\ 
+{\emph{``A Comparative Evaluation of DCCP Protocol in Mesh Networks.''} \\ 
 Supervisor: Dr. Kelvin Lopes Dias
 %This dissertation ...
 }
@@ -89,6 +91,7 @@ Supervisor: Dr. Kelvin Lopes Dias
 {Tasks \& Responsibilities: Supervise students and teach the following courses: Computer Networks, Computer Network Management, and Digital Systems.}
 \end{entrylist}
 
+\newpage
 \subsection{Guest Lecturer}
 \begin{entrylist}
 \entry
@@ -110,14 +113,87 @@ Supervisor: Dr. Kelvin Lopes Dias
 {Audience: bachelor students from University of Twente, European Research Center for Information (ERCIS), Westfälische Wilhelms - Univerität Münster, Universität Innsbruck, and University of Leicester. }
 \end{entrylist}
 
-\subsection{Software Developer}
+\subsection{Student Supervisor}
+Among 10 supervised students: 5 decided to follow towards the next academic degree[$^\uparrow$], PhD or MSc, 2 received the MSc degree cum laude[$^\Diamond$], 2 won the best paper award in international conferences[$^\star$], and 1 won the second place of a renowned Dutch national prize (KIVI/Defensie \& Veiligheid) for her thesis[$\star$].
+
+\begin{entrylist}
+\vspace{-0.3cm}
+\entry
+{[M.Sc. Degree]}
+{Justyna Chromik$^\uparrow$ $^\Diamond$ $^\star$ $\star$ , Wouter de Vries$^\uparrow$ $^\star$, Joey de Vries$^\Diamond$, Mark Wierbosch, and Jarmo van Lenthe.}
+{}
+
+\vspace{-0.3cm}
+\entry
+{[B.Sc. Degree]}
+{Roeland Krak$^\uparrow$, Max Kerkers$^\uparrow$, Dirk Maan$^\uparrow$, Jochum Börger, and Guilherme Dressler.}
+{}
+
+%[MINOR in Cyber Attacks and Cyber Security ] Karel Kroonen, Michiel Hamilton, Rick Clement, Peter Schroten, Yuri van Midden, Benedict Steinhoff, Kilian Müller, Stephanie Massa, Sören Schleibaum
+%[DESIGN Project] Tom Velthausz, Henk Mulder, Thomas Reesink, Jordy Michorius,Dennis Eijkel;
+%[Crossing Border Module]Julik Keijer
+
+\end{entrylist}
+
+\subsection{International Conference Reviewer}
+The first four listed conferences are among the top well ranked related to the Committee on Network Operation and Management (CNOM), which is a renowned technical committee part of the IEEE Communications Society. For each conference we present the acronym, the full name, the acceptance rate of paper submitted divided by published* (according \url{www.cs.ucsb.edu/~almeroth/conf/stats}), and the h-index* (according Google scholar).
+
 \begin{entrylist}
 
+\vspace{-0.3cm}
+\entry
+{CNSM} %(2013-- 2015)
+{International Conference on Network and Service Management}
+{17.6\% | 18}
+
+\vspace{-0.3cm}
+\entry
+{NETWORKING} %(2014--2016)
+{IFIP Networking}
+{23.8\% | 22 }
+
+\vspace{-0.3cm}
+\entry
+{IM} %(2015)
+{IFIP/IEEE Integrated Management}
+{27.2\% | 18}
+
+\vspace{-0.3cm}
+\entry
+{NOMS} %(2015)
+{IEEE/IFIP Network Operations and Management Symposium }
+{28.9\% | 22}
+
+\vspace{-0.3cm}
+\entry
+{AIMS} %(2015)
+{Autonomous Infrastructure, Management and Security}
+{31.8\% | 9}
+
+\vspace{-0.3cm}
+\entry
+{SCC} %(2013)
+{IEEE Symposium on Computers and Communications}
+{46.4\% | 20}
+
+\vspace{-0.3cm}
+\entry
+{APNOMS} %(2013 \& 2014))
+{Asia-Pacific Network Operations and Management Symposium}
+{ -- | 10}
+
+\end{entrylist}
+
+*Last checked \today.
+
+\newpage
+\subsection{Software Developer}
+\begin{entrylist}
 
 \entry
 {2015--Now}
 {Distributed Denial of Service Attacks Database (DDoSDB)}
-{\\Link: \href{http://bit.ly/ddos_db}{http://bit.ly/ddos\_db} }
+{\\Link: \href{http://ddosdb.net}{http://www.ddosdb.net} }
 {An initiative to develop the largest open database with DDoS attacks.\\
 Languages: Python, Bash, Pig Latin \& Apache Impala
 }
@@ -134,37 +210,42 @@ Language: WS-BPEL
 {2009}
 {Support for Planning Sustainable Electrical Power Generation via Vegetable Oil.}
 {}
-{Desktop application part of a Ph.D. thesis (\href{https://sites.google.com/site/ceamazonufpa/TeseAnaRosaDuarte.pdf}{chapter 5 and 6}) sponsored by Eletronorte, subsidiary of the major Brazilian power utility (Eletrobrás).\\
+{Desktop application part of a Ph.D. thesis [\href{https://sites.google.com/site/ceamazonufpa/TeseAnaRosaDuarte.pdf}{link}] sponsored by a subsidiary (Eletronorte) of the major Brazilian power utility (Eletrobrás).\\
 Language: C\#.Net \& mySQL
 }
 \end{entrylist}
 
-\subsection{Student Supervisor}
+\section{Presentations}
+%most reviewers will not take time to check this website, so you have to give a bit more information. For instance how many at conferences, which conferences, how many invited, where? etc. 
+\emph{More than 30 presentations in the last 3 years (available on my  \href{http://www.slideshare.net/jjcsantanna}{slideshare.net/jjcsantanna}), among those I highlight:}
 
 \begin{entrylist}
-\vspace{-0.3cm}
-\entry
-{[M.Sc. Degree]}
-{Joey de Vries [Cum Laude], Justyna Chromik [Cum Laude], Wouter de Vries, Mark Wierbosch, and Jarmo van Lenthe.}
-{}
 
 \vspace{-0.3cm}
 \entry
-{[B.Sc. Degree]}
-{Roeland Krak, Max Kerkers, Dirk Maan, Jochum Börger, and Guilherme Dressler.}
-{}
+{2015}
+{Oral Presentation}
+{at Logius (part of the Dutch Ministry of the Interior and Kingdom Relations).}
 
-%[MINOR in Cyber Attacks and Cyber Security ] Karel Kroonen, Michiel Hamilton, Rick Clement, Peter Schroten, Yuri van Midden, Benedict Steinhoff, Kilian Müller, Stephanie Massa, Sören Schleibaum
-%[DESIGN Project] Tom Velthausz, Henk Mulder, Thomas Reesink, Jordy Michorius,Dennis Eijkel;
-%[Crossing Border Module]Julik Keijer
+\vspace{-0.3cm}
+\entry
+{2015}
+{Oral Presentation}
+{to the Dutch National Management Organization of Internet Providers (NBIP).}
 
+\vspace{-0.3cm}
+\entry
+{2015}
+{Oral Presentation}
+{to the Dutch National Cyber Security Centrum (NCSC).}
+
+\vspace{-0.3cm}
+\entry
+{2013 \& 2015}
+{Oral Presentation}
+{at the 31$^{th}$ and 36$^{th}$ IRTF Network Management Research Group (NMRG).}
 
 \end{entrylist}
-
-\subsection{International Conference Reviewer}
-%good, any top conferences in your field?
-IFIP Networking (2014--2016), IEEE/IFIP Network Operations and Management Symposium (2014 \& 2016), Asia-Pacific Network Operations and Management Symposium (2013 \& 2014), IFIP/IEEE Integrated Management (2015), International Conference on Autonomous Infrastructure, Management and Security (2015), International Conference on Network and Service Management (2013-- 2015), EUNICE Conference (2013) \& IEEE Symposium on Computers and Communications (2011).\\
-
 
 \section{Awards}
 
@@ -202,40 +283,7 @@ IFIP Networking (2014--2016), IEEE/IFIP Network Operations and Management Sympos
 \end{entrylist}
 
 
-\section{Presentations}
-%most reviewers will not take time to check this website, so you have to give a bit more information. For instance how many at conferences, which conferences, how many invited, where? etc. 
-\emph{More than 30 presentations in the last 3 years (available on my  \href{http://www.slideshare.net/jjcsantanna}{slideshare.net/jjcsantanna}), among those I highlight:}
 
-\begin{entrylist}
-
-\vspace{-0.3cm}
-\entry
-{2015}
-{Oral Presentation}
-{at Logius (part of the Dutch Ministry of the Interior and Kingdom Relations).}
-
-\vspace{-0.3cm}
-\entry
-{2015}
-{Oral Presentation}
-{to the Dutch National Management Organization of Internet Providers (NBIP).}
-
-\vspace{-0.3cm}
-\entry
-{2015}
-{Oral Presentation}
-{to the Dutch National Cyber Security Centrum (NCSC).}
-
-\vspace{-0.3cm}
-\entry
-{2013 \& 2015}
-{Oral Presentation}
-{at the 31$^{th}$ and 36$^{th}$ IRTF Network Management Research Group (NMRG).}
-
-\end{entrylist}
-
-%\section{Interests}
-%\textbf{Professional:} data analysis, company profiling, risk analysis, economics, web design, web app creation, software design, marketing\\ \\ \textbf{Personal:} crossfit, running, cooking, dancing, traveling
 
 \newpage
 \section{Scientific Appendix}
