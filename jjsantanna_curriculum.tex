@@ -1,6 +1,7 @@
-\documentclass[]{friggeri-cv} % Add 'print' as an option into the square bracket to remove colors from this template for printing
+\documentclass[print]{friggeri-cv} % Add 'print' as an option into the square bracket to remove colors from this template for printing
 
-\usepackage{amssymb, amsmath} 
+%\usepackage{amssymb, amsmath} 
+\usepackage{soul}
 
 \addbibresource{mylibrary.bib}
 
@@ -8,39 +9,44 @@
 
 \header{José Jair }{Santanna}{Enthusiastic, Researcher, Lecturer, Network Security Specialist \& (Big) Data Analyst} 
 
-\begin{aside} % In the aside, each new line forces a line break
-\section{Contact}
-Drienerlolaan 5,
-Zilverling 5110,
-7522 NB Enschede,
-The Netherlands.
+\begin{aside} 
+ \section{Contact}
+	Mooienhof 10, 45
+	7512EB Enschede,
+	The Netherlands.
+	+31 (6) 42330703
+	\href{mailto:j.j.santanna@utwente.nl}{j.j.santanna@utwente.nl}
 ~
-+31 (6) 42330703
-~
-\href{http://jairsantanna.com}{\textbf{http://jairsantanna.com}}
-\href{mailto:j.j.santanna@utwente.nl}{j.j.santanna@utwente.nl}
-\section{Languages}
-portuguese native 
-english fluency
-spanish comprehension
-dutch comprehension
 \section{Programming}
-Bash, Python, C\#,SQL
-PIG, Spark \& Impala
+	Bash, Python, C\#,SQL
+	PIG, Spark/Scala \& Impala
+~
+\section{Links}
+	\href{http://jairsantanna.com}{\textbf{http://jairsantanna.com}}
+	\href{https://www.linkedin.com/in/jjcsantanna}{jjcsantanna}\includegraphics[scale=0.2]{img/linkedin.png}
+	\href{https://github.com/jjsantanna}{jjsantanna\includegraphics[scale=0.2]{img/github.png}}
+    \href{https://www.facebook.com/jjcsantanna}{jjcsantanna}\includegraphics[scale=0.2]{img/facebook.png}
+    \href{http://www.slideshare.net/jjcsantanna}{jjcsantanna}\includegraphics[scale=0.08]{img/slideshare.png}
+~
+\section{Languages}
+	\textbf{Portuguese}\includegraphics[scale=0.50]{img/5stars.png}
+	\textbf{English}\includegraphics[scale=0.50]{img/5stars.png}
+	\textbf{Spanish}\includegraphics[scale=0.50]{img/2stars.png}
+	\textbf{Dutch}\includegraphics[scale=0.50]{img/1star.png}
 \end{aside}
 
 \section{Professional Objective}
 %What are your current responsibilities?Why did you come to the UT? Why is this the right host for your research?
-I am currently a PhD candidate at University of Twente (ending in 2017) in a research group called Design and Analysis of Communication Systems (DACS). My research is founded by the European commission via a project focus in network of excellence, called Flamingo. In addition, my research is funded by one of the main Dutch national Organisation for Scientific Research (NWO) in a project called Distributed Denial of Service Defence (D3).
+I am currently a PhD candidate at University of Twente (till march 2017) in a research group called Design and Analysis of Communication Systems (DACS). My research is founded by the European commission via a project focus in network of excellence, called Flamingo; and by the Dutch national Organisation for Scientific Research (NWO) in a project called Distributed Denial of Service Defence (D3).
 
-I am interested in a research \& development position with focus on network security and the use of big data technologies to improve network data analysis. A position where I can transfer my enthusiasm, knowledge, skills and experience into meaningful innovation to improve the security in computer networks, specially in the Internet. 
+I am interested in a research \& development position with focus on network management and the use of big data technologies to improve network data analysis and network operations. A position where I can transfer my enthusiasm, knowledge, skills and experience into meaningful innovation to improve the security in computer networks, specially in the Internet. 
 
 \section{Education}
 
 \begin{entrylist}
 
 \entry
-{2013--Now}
+{2013--mar/2017*}
 {Doctor {\normalfont in Computer Science}}
 {University of Twente, The Netherlands}
 {\emph{``The DDoS as a \$ervice Phenomenon''.} \\
@@ -67,6 +73,15 @@ Supervisor: Dr. Kelvin Lopes Dias
 
 \section{Experience}
 
+\subsection{Assistant Professor}
+\begin{entrylist}
+\entry
+{2012--2013}
+{University of Santa Cruz do Sul (UNISC)}
+{Santa Cruz do Sul, Brazil}
+{Tasks \& Responsibilities: Supervise students and \textbf{teach} the following courses: Digital Systems, Computer Networks, and Computer Network Management. \ul{The lectures included topics such as the core networking protocols (e.g., TCP/IP, BGP and DNS) and ISP management operations, tools and issues.}}
+\end{entrylist}
+
 \subsection{Technical Adviser}
 \begin{entrylist}
 \entry
@@ -82,51 +97,52 @@ Supervisor: Dr. Kelvin Lopes Dias
 {For the production of a report on ``Cyber metrics 2016: DDoS and Malware'' requested by the \emph{Dutch Ministry of Security and Justice}.}
 \end{entrylist}
 
-\subsection{Assistant Professor}
-\begin{entrylist}
-\entry
-{2012--2013}
-{University of Santa Cruz do Sul (UNISC)}
-{Santa Cruz do Sul, Brazil}
-{Tasks \& Responsibilities: Supervise students and teach the following courses: Computer Networks, Computer Network Management, and Digital Systems.}
-\end{entrylist}
+
 
 \newpage
 \subsection{Guest Lecturer}
 \begin{entrylist}
 \entry
+{2016}
+{Network Management}
+{University of Twente, The Netherlands}
+{Title: SNMPv1, v2, v3 and Beyond (a very practical lecture)\\
+Link: \url{https://github.com/jjsantanna/lectures_hands_on/tree/master/20160517_SNMPv1_v2_v3}\\
+Audience: master students of computer science, electrical engineer, and telematics from the University of Twente. }
+
+\entry
 {2015 \& 2016}
-{Product Design to Online Business (course)}
+{Product Design to Online Business}
 {University of Twente, The Netherlands}
 {Audience: bachelor students of industrial engineering and business information technology.}
 
 \entry
 {2015}
-{Network Security (course)}
+{Network Security}
 {University of Twente, The Netherlands}
 {Audience: master and bachelor students of computer science, electrical engineer, and telematics from the University of Twente, 3TU cyber security, and members of ICT labs. }
 
 \entry
 {2015}
-{Cybercrime \& Cybersecurity (minor)}
+{Cybercrime \& Cybersecurity}
 {University of Twente, The Netherlands}
 {Audience: bachelor students from University of Twente, European Research Center for Information (ERCIS), Westfälische Wilhelms - Univerität Münster, Universität Innsbruck, and University of Leicester. }
 \end{entrylist}
 
-\subsection{Student Supervisor}
-Among 10 supervised students: 5 decided to follow towards the next academic degree[$^\uparrow$], PhD or MSc, 2 received the MSc degree cum laude[$^\Diamond$], 2 won the best paper award in international conferences[$^\star$], and 1 won the second place of a renowned Dutch national prize (KIVI/Defensie \& Veiligheid) for her thesis[$\star$].
+\section{Student Supervisor}
+Among 10 supervised students: 5 decided to follow towards the next academic degree[$^*$], PhD or MSc, 2 received the MSc degree cum laude[$^+$], 2 won the best paper award in international conferences[$^\#$], and 1 won the second place of a renowned Dutch national prize (KIVI/Defensie \& Veiligheid) for her thesis[$!$].
 
 \begin{entrylist}
 \vspace{-0.3cm}
 \entry
 {[M.Sc. Degree]}
-{Justyna Chromik[$^\uparrow$ $^\Diamond$ $^\star$ $\star$] , Wouter de Vries[$^\uparrow$ $^\star$], Joey de Vries[$^\Diamond$], Mark Wierbosch, and Jarmo van Lenthe.}
+{Justyna Chromik[$^*$ $^+$ $^\#$ $!$] , Wouter de Vries[$^*$ $^\#$], Joey de Vries[$^+$], Mark Wierbosch, and Jarmo van Lenthe.}
 {}
 
 \vspace{-0.3cm}
 \entry
 {[B.Sc. Degree]}
-{Roeland Krak[$^\uparrow$], Max Kerkers[$^\uparrow$], Dirk Maan[$^\uparrow$], Jochum Börger, and Guilherme Dressler.}
+{Roeland Krak[$^*$], Max Kerkers[$^*$], Dirk Maan[$^*$], Jochum Börger, and Guilherme Dressler.}
 {}
 
 %[MINOR in Cyber Attacks and Cyber Security ] Karel Kroonen, Michiel Hamilton, Rick Clement, Peter Schroten, Yuri van Midden, Benedict Steinhoff, Kilian Müller, Stephanie Massa, Sören Schleibaum
@@ -169,9 +185,21 @@ Among more than 20 venues acting as reviewer we highlight four conferences which
 
 \let\thefootnote\relax\footnotetext{*last checked: April 7,2016}
 
+\newpage
 \subsection{Conference Organizer}
 
 \begin{entrylist}
+\entry
+{2016} 
+{Shadow Technical Program Committee (TPC)}
+{CNSM}
+{IFIP/IEEE International Conference on Network and Service Management (CNSM) is the premier annual single-track conference in the general area of network and service management. A shadow TPC is a experimental initiative to make PhD researchers better TPCs in the future. The reviews are considered as normal a TPC review. }
+
+\entry
+{2013-2016} 
+{Technical Program Committee (TPC)}
+{ERRC}
+{Escola Regional de Redes de Computadores, a conference for undergrad students from the south of Brazil.}
 
 \entry
 {2012} 
@@ -184,13 +212,6 @@ Among more than 20 venues acting as reviewer we highlight four conferences which
 {Local Organizing Committee}
 {SBRC}
 {The Brazilian Symposium on Computer Networks and Distributed Systems.}
-
-\entry
-{2013-2015} 
-{Technical Program Committee (TPC)}
-{ERRC}
-{Escola Regional de Redes de Computadores, a conference for undergrad students from the south of Brazil.}
-
 
 \end{entrylist}
 
@@ -207,7 +228,6 @@ Among more than 20 venues acting as reviewer we highlight four conferences which
 %Descrição: Abordamos aspectos de pesquisa nas áreas de infra-estrutura de comunicações, implementação e avaliação de interfaces amigáveis para acesso universal aos cidadãos, considerando as oportunidades de conectividade existentes e peculiaridades da região amazônica. O estudo e solução propostos neste projeto consideram hardware de comunicação de baixo custo, além de software livre e aberto para a composição de um sistema de acesso flexível e escalável.. , Situação: Concluído; Natureza: Pesquisa. , Alunos envolvidos: Graduação: (3) / Mestrado acadêmico: (7) / Doutorado: (2) . , Integrantes: José Jair Cardoso de Santanna - Integrante / Kelvin Lopes Dias - Coordenador., Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
 
 
-\newpage
 \subsection{Software Developer}
 \begin{entrylist}
 
@@ -236,7 +256,7 @@ Language: C\#.Net \& mySQL
 }
 \end{entrylist}
 
-\section{Presentations}
+\section{ Presentations \includegraphics[scale=0.08]{img/slideshare.png}}
 %most reviewers will not take time to check this website, so you have to give a bit more information. For instance how many at conferences, which conferences, how many invited, where? etc. 
 \emph{More than 30 presentations in the last 3 years (available on my  \href{http://www.slideshare.net/jjcsantanna}{slideshare.net/jjcsantanna}), among those I highlight:}
 
@@ -245,25 +265,25 @@ Language: C\#.Net \& mySQL
 \vspace{-0.3cm}
 \entry
 {2015}
-{Oral Presentation}
+{Invited presentation}
 {at Logius (part of the Dutch Ministry of the Interior and Kingdom Relations).}
 
 \vspace{-0.3cm}
 \entry
 {2015}
-{Oral Presentation}
+{Invited Presentation}
 {to the Dutch National Management Organization of Internet Providers (NBIP).}
 
 \vspace{-0.3cm}
 \entry
 {2015}
-{Oral Presentation}
+{Invited Presentation}
 {to the Dutch National Cyber Security Centrum (NCSC).}
 
 \vspace{-0.3cm}
 \entry
 {2013 \& 2015}
-{Oral Presentation}
+{Presentation}
 {at the 31$^{th}$ and 36$^{th}$ IRTF Network Management Research Group (NMRG).}
 
 \end{entrylist}
@@ -309,9 +329,8 @@ Language: C\#.Net \& mySQL
 \newpage
 \section{Scientific Appendix}
 
-%\subsection{Description of Ph.D. Research}
 \subsection{Publications}
-%what are the top conferences  / journals in your field? 
+
 \nocite{*}
 \printbibliography[title={\emptyset}]
 
