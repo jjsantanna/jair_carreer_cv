@@ -3,7 +3,5 @@ I've created a (xelatex) version of my curriculum using the "friggeri-cv" templa
 
 ## To compile 
 ```
-xelatex jjsantanna_curriculum.tex 
-biber jjsantanna_curriculum.bcf
-xelatex jjsantanna_curriculum.tex
+xelatex jjsantanna_curriculum.tex ; biber jjsantanna_curriculum.bcf ; xelatex jjsantanna_curriculum.tex; evince jjsantanna_curriculum.pdf 
 ```
