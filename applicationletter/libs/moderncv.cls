@@ -10,7 +10,7 @@
 %                identification
 %-------------------------------------------------------------------------------
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{moderncv}[2013/02/09 v1.3.0 modern curriculum vitae and letter document class]
+\ProvidesClass{libs/moderncv}[2013/02/09 v1.3.0 modern curriculum vitae and letter document class]
 
 
 %-------------------------------------------------------------------------------
@@ -229,7 +229,7 @@
 % adds a mobile/fixed/fax number to one's personal information (optional)
 % usage: \phone[<optional type>]{<number>}
 % where <optional type> should be either "mobile", "fixed" or "fax
-\RequirePackage{collection}
+\RequirePackage{libs/collection}
 \collectionnew{phones}
 \newcommand*{\phone}[2][fixed]{\collectionadd[#1]{phones}{#2}}
 \newcommand*{\email}[1]{\def\@email{#1}}
