@@ -9,4 +9,5 @@
 
 ## 2018
 - 02/10/2018 ONE conference [organized by: the Dutch National Cyber Crime Center (NCSC); place: the Netherlands] [link](https://one-conference.nl/schedule-2018/day2/parallel-tracks/professionalizing-incident-respone-network-defense-ethics-standards-and-self-governance-1-1)
+- 20/02/2018 Pitch training for FAMELab [organized by: University of Twente] [link](https://vimeo.com/318470345/c27cb73d6a)
 
