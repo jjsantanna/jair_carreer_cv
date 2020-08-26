@@ -1,5 +1,12 @@
 # Presentations
 *last updated: 28/10/2019*
+
+## 2020
+- 10/09/2020 Presentation at AG CONNECT Security Congress on ["Security Monitoring in de cloud met Azure Sentinel"](https://securitycongres.nl/team/jair-santanna/)
+- 04/09/2020 Podcast recording organised by University of Twente Alumni on "a Brazilian student in the Netherlands" 
+- 26/08/2020 Interview to the *Kamer van Koophandel* (KVK) on "DDoS attacks and Booters"
+- 26/07/2020 Interview to RAND Europe, commissioned by the *Wetenschappelijk Onderzoek- en Documentatiecentrum* (WODC), on behalf of the *Nationaal Coördinator Terrorismebestrijding en Veiligheid* (NCTV), on "the governance of cybersecurity from a national security perspective and critical infrastructure protection" 
+
 ## 2019
 - 20/11/2019 [DEX-XL Politie Congress][organized by: Dutch National Politie; place: the Netherlands]
 - 05/11/2019 [Cybercrime Symposium][organized by: the Dutch National Police and TNO; place: the Netherlands]
