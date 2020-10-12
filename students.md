@@ -11,12 +11,12 @@
 - 2019 B.Sc. Wouter Kobes [Efficient and accurate classification of cyber security related documents](http://essay.utwente.nl/77784/1/Kobes_BA_EEMCS.pdf)
 - 2017 M.Sc. Kareem M. I. A. Fouda [Payload Based Signature Generation for DDoS Attacks](https://essay.utwente.nl/73420/1/Fouda_MA_EEMCS.pdf)
 - 2015 M.Sc. Justyna J. Chromik [Booters (Black)List](https://essay.utwente.nl/66780/7/chromik-MA-tel-public.pdf)
+- 2015 M.Sc. Joey de vries [The Generation of Booter (Black)Lists](http://essay.utwente.nl/68421/1/DeVries_MA_EEMCS.pdf)
+- 2014 M.Sc. Wouter de Vries [How assymetric is the Internet?](https://essay.utwente.nl/66400/1/de%20Vries_MA_EEMCS.pdf)
+- 2014 B.Sc. Max Kerkers [Characterisation of the Kelihos.B Botnet](https://research.utwente.nl/files/5314075/camera_ready_124816.pdf)
 - 2014 M.Sc. Dirk Maan [Validation of Internet Census 2012](https://www.utwente.nl/en/eemcs/dacs/assignments/completed/bachelor/reports/2014_B.Sc_Assignment_D.Maan.pdf)
-
+- 2013 B.Sc. Guilherme Dressler [Uma Solução para Gerenciamento de Sistemas RFID de Baixo Custo]
 <!--
-- Max Kerkers [Characterisation of the Kelihos.B Botnet](https://research.utwente.nl/files/5314075/camera_ready_124816.pdf)
 - Mark wierborsch
-- Wouter de Vries
-- Joey de vries
-- Guilherme Dressler [Uma Solução para Gerenciamento de Sistemas RFID de Baixo Custo]
+- Jarmo van Lente
 -->
