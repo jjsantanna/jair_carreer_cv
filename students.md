@@ -18,4 +18,5 @@
 - Mark wierborsch
 - Wouter de Vries
 - Joey de vries
+- Guilherme Dressler [Uma Solução para Gerenciamento de Sistemas RFID de Baixo Custo]
 -->
