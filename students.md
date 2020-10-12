@@ -1,8 +1,16 @@
 # Students
+- 2020 B.Sc. Nils van Noort [Machine Learning for Monitoring Attacks in the Cloud](http://essay.utwente.nl/82147/1/vanNoort_BA_EEMCS.pdf)
+- 2020 B Sc. Luc Jansen [Comparing cloud security directions between the academia and the Industry, A survey](http://essay.utwente.nl/80578/7/Final_paper_by_Luc_Jansen.pdf)
+- 2019 B.Sc. Koen van Hove [Automated DDoS Attack Fingerprinting by Mimicking the Actions of a Network Operator](http://essay.utwente.nl/78706/1/van%20hove_BA_EWI.pdf)
+- 2019 M.Sc. Sridhar B. Venugopal [Automatic Generation of Access Control List on Mellanox Switch For DDoS Attack Mitigation Using DDoS Fingerprints](http://essay.utwente.nl/80079/1/Sridhar_MA_EEMCS.pdf)
 - 2019 M.Sc. Jessica G. Conrads [DDoS Attack Fingerprint Extraction Tool: Making a Flow-based Aprroach as Precise as a Packet-based](https://essay.utwente.nl/79567/1/Conrads_MA_EEMCS.pdf)
 - 2017 M.Sc. Kareem M. I. A. Fouda [Payload Based Signature Generation for DDoS Attacks](https://essay.utwente.nl/73420/1/Fouda_MA_EEMCS.pdf)
 - 2015 M.Sc. Justyna J. Chromik [Booters (Black)List](https://essay.utwente.nl/66780/7/chromik-MA-tel-public.pdf)
+- 2014 M.Sc. Dirk Maan [Validation of Internet Census 2012](https://www.utwente.nl/en/eemcs/dacs/assignments/completed/bachelor/reports/2014_B.Sc_Assignment_D.Maan.pdf)
+
 <!--
-- Max kerkers
-asda
->
+- Max Kerkers [Characterisation of the Kelihos.B Botnet](https://research.utwente.nl/files/5314075/camera_ready_124816.pdf)
+- Mark wierborsch
+- Wouter de Vries
+- Joey de vries
+-->
