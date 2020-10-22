@@ -1,5 +1,10 @@
 # Students
 
+- Jurian van Geest [Removing private sensitive data within DDoS attacks]()
+- Huub [Signature-Based DDoS Attack Mitigation: Automated Generating Rules for Extended Berkeley Packet Filter and Express Data Path](http://essay.utwente.nl/80125/1/vanwieren_MA_DACS.pdf)
+- Vincent 
+- René
+
 - [on-going] 2020 (M.Sc.) Atif Khan 
 - [on-going] 2020 (M.Sc.) Julik Keijer
 
