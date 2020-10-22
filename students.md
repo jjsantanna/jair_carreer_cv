@@ -8,7 +8,7 @@
 - 2019 B.Sc. Koen van Hove [Automated DDoS Attack Fingerprinting by Mimicking the Actions of a Network Operator](http://essay.utwente.nl/78706/1/van%20hove_BA_EWI.pdf)
 - 2019 M.Sc. Sridhar B. Venugopal [Automatic Generation of Access Control List on Mellanox Switch For DDoS Attack Mitigation Using DDoS Fingerprints](http://essay.utwente.nl/80079/1/Sridhar_MA_EEMCS.pdf)
 - 2019 M.Sc. Jessica G. Conrads [DDoS Attack Fingerprint Extraction Tool: Making a Flow-based Approach as Precise as a Packet-based](https://essay.utwente.nl/79567/1/Conrads_MA_EEMCS.pdf)
--2019 M.Sc.Joeri Kock [A Signature-Based Approach to DDoS Attack Mitigation Using BGP Flowspec Rules](https://essay.utwente.nl/80127/1/Master_Thesis_Joeri_Kock_final.pdf)
+- 2019 M.Sc.Joeri Kock [A Signature-Based Approach to DDoS Attack Mitigation Using BGP Flowspec Rules](https://essay.utwente.nl/80127/1/Master_Thesis_Joeri_Kock_final.pdf)
 - 2019 B.Sc. Diederik Bakker [Impact-based optimisation of BGP Flowspec rules for DDoS attack mitigation](http://essay.utwente.nl/77598/1/30-TScIT_paper_43%20%284%29.pdf)
 - 2019 B.Sc. Dirk Koelewijn [Fingerprint-Based Automated Rule Generation for DDoS Mitigation using the Berkely Packet Filter](http://essay.utwente.nl/77806/1/Koelewijn_BA_EEMCS.pdf)
 - 2019 B.Sc. Julik Keijer [Automated DDoS mitigation based on known attacks using a Web Application Firewall](https://essay.utwente.nl/77825/1/keijer_BA_EEMCS.pdf)
