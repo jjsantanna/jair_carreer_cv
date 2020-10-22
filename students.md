@@ -29,7 +29,7 @@
 |2014|M.Sc.|Wouter de Vries|[How assymetric is the Internet?](https://essay.utwente.nl/66400/1/de%20Vries_MA_EEMCS.pdf)|Internet assymetry|
 |2014|B.Sc.|Max Kerkers|[Characterisation of the Kelihos.B Botnet](https://research.utwente.nl/files/5314075/camera_ready_124816.pdf)|Botnet|
 |2014|M.Sc.|Dirk Maan|[Validation of Internet Census 2012](https://www.utwente.nl/en/eemcs/dacs/assignments/completed/bachelor/reports/2014_B.Sc_Assignment_D.Maan.pdf)|Botnet|
-|2014|Mark wierborsch|[Booters - An analysis of DDoS-as-a-service attacks](https://research.utwente.nl/files/5380342/07140298.pdf)|Booters|
+|2014|M.Sc.|Mark wierborsch|[Booters - An analysis of DDoS-as-a-service attacks](https://research.utwente.nl/files/5380342/07140298.pdf)|Booters|
 |2014|M.Sc.|Jarmo van Lente|[Combining Multiple Malware Detection Approaches for Achieving Higher Accuracy](https://essay.utwente.nl/64999/1/thesis.pdf)|Malware|
 |2013|B.Sc.|Guilherme Dressler|[Uma Solução para Gerenciamento de Sistemas RFID de Baixo Custo]()|SNMP RFID|
 <!--
