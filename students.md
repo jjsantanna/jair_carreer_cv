@@ -3,7 +3,11 @@
 - [on-going] 2020 (M.Sc.) Atif Khan 
 - [on-going] 2020 (M.Sc.) Julik Keijer
 
-- 2020 B.Sc. Nils van Noort [Machine Learning for Monitoring Attacks in the Cloud](http://essay.utwente.nl/82147/1/vanNoort_BA_EEMCS.pdf)
+| Year | Level | Name | Title | Class |
+|------|-------|------|-------|-------|
+|2020|B.Sc.|Nils van Noort|[Machine Learning for Monitoring Attacks in the Cloud](http://essay.utwente.nl/82147/1/vanNoort_BA_EEMCS.pdf)|Cloud|
+
+
 - 2020 B Sc. Luc Jansen [Comparing cloud security directions between the academia and the Industry, A survey](http://essay.utwente.nl/80578/7/Final_paper_by_Luc_Jansen.pdf)
 - 2019 B.Sc. Koen van Hove [Automated DDoS Attack Fingerprinting by Mimicking the Actions of a Network Operator](http://essay.utwente.nl/78706/1/van%20hove_BA_EWI.pdf)
 - 2019 M.Sc. Sridhar B. Venugopal [Automatic Generation of Access Control List on Mellanox Switch For DDoS Attack Mitigation Using DDoS Fingerprints](http://essay.utwente.nl/80079/1/Sridhar_MA_EEMCS.pdf)
