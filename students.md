@@ -19,9 +19,9 @@
 |2019|B.Sc.|Wouter Kobes|[Efficient and accurate classification of cyber security related documents](http://essay.utwente.nl/77784/1/Kobes_BA_EEMCS.pdf)||
 |2019|M.Sc.|Mart Meijerink|[Anomaly-based Detection of Lateral Movement in a Microsoft Windows Environment](http://essay.utwente.nl/77122/1/Meijerink_MA_EWI.pdf)|Lateral Movement|
 | 2018|B.Sc.|Jurian van Geest|[Removing private sensitive data within DDoS attacks]()||
-| 2018|B.Sc.* Vincent Dunning|[Automatic DDoS attack signature generation for SNORT and Suricata]()||
-| 2018|B.Sc.* Rene Boschma|[Automatic DDoS Attack Rule Generation for SIDS applied to BRO]()||
-| 2018|B.Sc.* Christiaan van den Bogaard|[Anomaly Detection for DDoS attacks by using Flow Data and Machine Learning]()||
+| 2018|B.Sc.\*| Vincent Dunning|[Automatic DDoS attack signature generation for SNORT and Suricata]()||
+| 2018|B.Sc.\*| Rene Boschma|[Automatic DDoS Attack Rule Generation for SIDS applied to BRO]()||
+| 2018|B.Sc.\*| Christiaan van den Bogaard|[Anomaly Detection for DDoS attacks by using Flow Data and Machine Learning]()||
 | 2017|M.Sc.|Kareem M. I. A. Fouda|[Payload Based Signature Generation for DDoS Attacks](https://essay.utwente.nl/73420/1/Fouda_MA_EEMCS.pdf)||
 | 2015|M.Sc.|Justyna J. Chromik|[Booters (Black)List](https://essay.utwente.nl/66780/7/chromik-MA-tel-public.pdf)||
 | 2015|M.Sc.|Joey de vries|[The Generation of Booter (Black)Lists](http://essay.utwente.nl/68421/1/DeVries_MA_EEMCS.pdf)||
