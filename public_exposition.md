@@ -2,7 +2,7 @@
 *last updated: 26/08/2020*
 
 ## 2020
-- 09/10/2020 Presentation at [MITRE ATT&CKcon Power Hour](https://na.eventscloud.com/website/17752/) on "Detecting ATT&CKs with dynamic threshold using Tukey's test and Azure Sentinel"
+- 09/10/2020 Presentation at [MITRE ATT&CKcon Power Hour](https://www.youtube.com/watch?v=elZ7RST51zs) on "Detecting ATT&CKs with dynamic threshold using Tukey's test and Azure Sentinel"
 - 08/10/2020 Presentation at [it-sa 365](https://www.itsa365.de/ActionArea/NorthwaveS247SocPoweredByMicrosoftAzureSentinel) on "Security Monitoring in de Cloud with Azure Sentinel"
 - 03/10/2020 Interview to [tweakers.net](https://tweakers.net/reviews/8216/4/de-destructiviteit-van-ddos-aanvallen-mirai-en-andere-botnets.html) on "DDoS Attacks and Booters"
 - 10/09/2020 Presentation at [AG CONNECT Security Congress 2020](https://securitycongres.nl/team/jair-santanna/) on "Security Monitoring in de cloud met Azure Sentinel"
