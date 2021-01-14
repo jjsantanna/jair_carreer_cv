@@ -2,7 +2,7 @@
 *last updated: 26/08/2020*
 
 ## 2020
-- 12/2020 Podcast [AGConnect CloudCongress 2020](https://soundcloud.com/user-236466459/podcast-cloudcongres-northwave?tid=TIDP503960X27ED0BEBC3CB48A1956E0CF93BC86C4DYI5&utm_campaign=AGC_cloudcongres&utm_medium=email&utm_source=SMG&utm_content=92_EM1%20Deelnemers%20Cloud%20Congres%202020)
+- 12/2020 Podcast [AGConnect CloudCongress 2020](https://soundcloud.com/user-236466459/podcast-cloudcongres-northwave?tid=TIDP503960X27ED0BEBC3CB48A1956E0CF93BC86C4DYI5&utm_campaign=AGC_cloudcongres&utm_medium=email&utm_source=SMG&utm_content=92_EM1%20Deelnemers%20Cloud%20Congres%202020) on "Security in the Cloud."
 - 09/10/2020 Presentation at [MITRE ATT&CKcon Power Hour](https://www.youtube.com/watch?v=elZ7RST51zs) on "Detecting ATT&CKs with dynamic threshold using Tukey's test and Azure Sentinel"
 - 08/10/2020 Presentation at [it-sa 365](https://www.itsa365.de/ActionArea/NorthwaveS247SocPoweredByMicrosoftAzureSentinel) on "Security Monitoring in de Cloud with Azure Sentinel"
 - 03/10/2020 Interview to [tweakers.net](https://tweakers.net/reviews/8216/4/de-destructiviteit-van-ddos-aanvallen-mirai-en-andere-botnets.html) on "DDoS Attacks and Booters"
