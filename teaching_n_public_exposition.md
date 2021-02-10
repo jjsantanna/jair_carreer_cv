@@ -9,7 +9,9 @@
 - 09/10/2020 Presentation at [MITRE ATT&CKcon Power Hour](https://www.youtube.com/watch?v=elZ7RST51zs) on "Detecting ATT&CKs with dynamic threshold using Tukey's test and Azure Sentinel"
 - 08/10/2020 Presentation at [it-sa 365](https://www.itsa365.de/ActionArea/NorthwaveS247SocPoweredByMicrosoftAzureSentinel) on "Security Monitoring in de Cloud with Azure Sentinel"
 - 03/10/2020 Interview to [tweakers.net](https://tweakers.net/reviews/8216/4/de-destructiviteit-van-ddos-aanvallen-mirai-en-andere-botnets.html) on "DDoS Attacks and Booters"
+- 23/09,30/09, 07/10 Course on introduction to digital forensics, part of the minor on Cybersecurity and Cybercrime, University of Twente.
 - 29/09/2020 Lecture on network forensics, part of the computer forensics module, Hogeschool Saxion.
+- 05/09, 28/09 Lectures on Cloud security from an end-user perspective, part of the course secure cloud computing, University of Twente.
 - 10/09/2020 Presentation at [AG CONNECT Security Congress 2020](https://securitycongres.nl/team/jair-santanna/) on "Security Monitoring in de cloud met Azure Sentinel"
 - 26/08/2020 Interview to the [Kamer van Koophandel (KVK)](https://www.kvk.nl/advies-en-informatie/fraude/help-een-ddos-aanval-wat-nu/) on "DDoS attacks".
 - 26/07/2020 Interview to RAND Europe, commissioned by the *Wetenschappelijk Onderzoek- en Documentatiecentrum* (WODC), on behalf of the *Nationaal Coördinator Terrorismebestrijding en Veiligheid* (NCTV), on "the governance of cybersecurity from a national security perspective and critical infrastructure protection"
