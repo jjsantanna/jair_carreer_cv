@@ -2,6 +2,7 @@
 *last updated: 20/01/2021*
 
 ## 2021
+<--- 26/05/2021 Lecture on the "the future of cyber security", guest lecture to the honours programme, University of twente --->
 - 22/01/2021 Podcast on ["a Brazilian student in the Netherlands"](https://soundcloud.com/university-of-twente/i-am-a-pro-cyber-security) organised by University of Twente Alumni.
 
 ## 2020
