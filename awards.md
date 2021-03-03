@@ -1,0 +1,2 @@
+
+- 2021 "Great EU-funded Innovations" - One idea of mine, that became a project funded by SIDNFonds (in 2017), then became a proof-of-concept (ddosdb.org), that was embraced by a Dutch Coalition (https://www.nomoreddos.org/en/), and became part of an European project (CONCORDIA) was considered by the europian comission as a "Great Innovation" with "High level of Market Creation Potential"[link](https://www.innoradar.eu/innovation/37921)
