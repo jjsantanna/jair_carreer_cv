@@ -1,0 +1,2 @@
+- 26/03 Email to SOM's on how customers should setup their MDE/MDATP and the addition of 'advanced' 'live response capabilities'
+- 12/03 Document on Microsoft License (MDE, M365D, and Azure Sentinel)
