@@ -1,11 +1,11 @@
 # Presentations
-*last updated: 20/01/2021*
+*last updated: 26/03/2021*
 
 ## 2021
 <!--- */09-10-11/2021 Course/Minor on Cybersecurity & Cybercrime, part Introduction to Digital Forensics for Cybercrimes, University of Twente -->
 <!--- */09-10-11/2021 Course Secure Cloud Computing, part "the end-user perspective", University of Twente -->
 <!--- 28/04/2021 Lecture on the "the future of cyber security", guest lecture to the honours programme, University of twente -->
-<!--- 27/03/2021 Speach at Enschedese Informatica Alumni Club (ENIAC) symposium. Back to the future and the Cloud --> 
+- 27/03/2021 Keynote at Enschedese Informatica Alumni Club (ENIAC) symposium. Back to the future on Clouds
 - 22/01/2021 Podcast on ["a Brazilian student in the Netherlands"](https://soundcloud.com/university-of-twente/i-am-a-pro-cyber-security) organised by University of Twente Alumni.
 
 ## 2020
