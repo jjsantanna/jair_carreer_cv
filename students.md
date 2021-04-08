@@ -3,7 +3,7 @@
 
 | Year | Level | Name | Title | Class |
 |------|-------|------|-------|-------|
-|2021|M.Sc.|Ati Khan|[Proposing and Deployment of Attractive Azure AD Honeypot With Varying Security Measures To Evaluate Their Performance Against Real Attacks]()|AAD honeypot|
+|2021|M.Sc.|Ati Khan|[Proposing and Deployment of Attractive Azure AD Honeypot With Varying Security Measures To Evaluate Their Performance Against Real Attacks](http://essay.utwente.nl/85992/1/Khan_MA_faculty.pdf)|AAD honeypot|
 |2020|B.Sc.|Nils van Noort|[Machine Learning for Monitoring Attacks in the Cloud](http://essay.utwente.nl/82147/1/vanNoort_BA_EEMCS.pdf)|Cloud Security|
 | 2020|B.Sc.|Luc Jansen|[Comparing cloud security directions between the academia and the Industry, A survey](http://essay.utwente.nl/80578/7/Final_paper_by_Luc_Jansen.pdf)|Cloud Security|
 |2019| M.Sc.|Mart Meijerink| [Anomaly-based detection of lateral movement in a Microsoft Windows environment](https://essay.utwente.nl/77122/1/Meijerink_MA_EWI.pdf)|Lateral Movement|
