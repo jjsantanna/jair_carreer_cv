@@ -1,9 +1,10 @@
 # Students
-- [on-going] 2020 (M.Sc.) Julik Keijer
+- [on-going] 2020 (M.Sc.) 
 
 | Year | Level | Name | Title | Class |
 |------|-------|------|-------|-------|
-|2021|M.Sc.|Ati Khan|[Proposing and Deployment of Attractive Azure AD Honeypot With Varying Security Measures To Evaluate Their Performance Against Real Attacks](http://essay.utwente.nl/85992/1/Khan_MA_faculty.pdf)|AAD honeypot|
+|2021|M.Sc.|Julik Keijer|[Unsupervised Anomaly-Based Network Intrusion Detection Using Auto Encoders for Practical Use](http://essay.utwente.nl/86521/1/Julik_Keijer_MA_EEMCS.pdf)|ML A-NIDS|
+|2021|M.Sc.|Atif Khan|[Proposing and Deployment of Attractive Azure AD Honeypot With Varying Security Measures To Evaluate Their Performance Against Real Attacks](http://essay.utwente.nl/85992/1/Khan_MA_faculty.pdf)|AAD honeypot|
 |2020|B.Sc.|Nils van Noort|[Machine Learning for Monitoring Attacks in the Cloud](http://essay.utwente.nl/82147/1/vanNoort_BA_EEMCS.pdf)|Cloud Security|
 | 2020|B.Sc.|Luc Jansen|[Comparing cloud security directions between the academia and the Industry, A survey](http://essay.utwente.nl/80578/7/Final_paper_by_Luc_Jansen.pdf)|Cloud Security|
 |2019| M.Sc.|Mart Meijerink| [Anomaly-based detection of lateral movement in a Microsoft Windows environment](https://essay.utwente.nl/77122/1/Meijerink_MA_EWI.pdf)|Lateral Movement|
@@ -16,6 +17,7 @@
 | 2019|B.Sc.|Diederik Bakker|[Impact-based optimisation of BGP Flowspec rules for DDoS attack mitigation](http://essay.utwente.nl/77598/1/30-TScIT_paper_43%20%284%29.pdf)|DDoS Fingerprint Converter|
 | 2019|B.Sc.|Dirk Koelewijn|[Fingerprint-Based Automated Rule Generation for DDoS Mitigation using the Berkely Packet Filter](http://essay.utwente.nl/77806/1/Koelewijn_BA_EEMCS.pdf)|DDoS Fingerprint Converter|
 |2019|B.Sc.|Julik Keijer|[Automated DDoS mitigation based on known attacks using a Web Application Firewall](https://essay.utwente.nl/77825/1/keijer_BA_EEMCS.pdf)|DDoS Fingerprint Converter|
+|2019|B.Sc.|Matthijs Vos|[Characterizing infrastructure of DDoS attacks based on DDoSDB fingerprints](http://essay.utwente.nl/78807/1/Vos_BA_EEMCS.pdf)|DDoSDB|
 |2019|B.Sc.|Niek Khasuntsev|[Accurate and Efficient Classification of Cyber Security Documents](http://essay.utwente.nl/79842/1/Khasuntsev_BA_EEMCS.pdf)|Document Classification|
 |2019|B.Sc.|Wouter Kobes|[Efficient and accurate classification of cyber security related documents](http://essay.utwente.nl/77784/1/Kobes_BA_EEMCS.pdf)|Document Classification|
 |2019|M.Sc.|Mart Meijerink|[Anomaly-based Detection of Lateral Movement in a Microsoft Windows Environment](http://essay.utwente.nl/77122/1/Meijerink_MA_EWI.pdf)|Lateral Movement|
