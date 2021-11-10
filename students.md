@@ -39,6 +39,5 @@
 Commitee:"
 Anna Prudnikova: Standardized security assessment framework for ICS devices and pilot project
 Christodoulos Tziampazis: Exposure Assessment on Medical Devices in the Netherlands
-
 -->
 
