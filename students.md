@@ -1,5 +1,4 @@
-# Students
-- [on-going] 2020 (M.Sc.) 
+# Students 
 
 | Year | Level | Name | Title | Class |
 |------|-------|------|-------|-------|
