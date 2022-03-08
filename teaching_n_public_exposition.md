@@ -1,9 +1,13 @@
 # Presentations
 *last updated: 28/04/2021*
 
+## 2022
+- 07/04/2022 [Defcon Holland](https://www.defconholland.org/)
+
+
 ## 2021
-<!--- */09-10-11/2021 Course/Minor on Cybersecurity & Cybercrime, part Introduction to Digital Forensics for Cybercrimes, University of Twente -->
-<!--- */09-10-11/2021 Course Secure Cloud Computing, part "the end-user perspective", University of Twente -->
+- 2021 Course/Minor on Cybersecurity & Cybercrime, Introduction to Digital Forensics for Cybercrimes, University of Twente 
+- 2021 Course Secure Cloud Computing, part "the end-user perspective", University of Twente
 <!--- Public speaking course --> 
 - 28/04/2021 Lecture on the "the future of cyber security", guest lecture to the honours programme, University of Twente
 - 27/03/2021 Keynote at Enschedese Informatica Alumni Club (ENIAC) symposium. ["Back to the future on Clouds"](https://www.youtube.com/watch?v=SRaPB3sd1ic)
