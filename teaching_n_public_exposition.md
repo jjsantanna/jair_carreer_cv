@@ -2,8 +2,8 @@
 *last updated: 28/04/2021*
 
 ## 2022
-- 07/04/2022 [Defcon Holland](https://www.defconholland.org/)
-
+- 16/03/2022 Host at [Symposium Zephyrus](https://symposia.inter-actief.utwente.nl/zephyrus)
+- 07/04/2022 presenter at [Defcon Holland](https://www.defconholland.org/)
 
 ## 2021
 - 2021 Course/Minor on Cybersecurity & Cybercrime, Introduction to Digital Forensics for Cybercrimes, University of Twente 
@@ -25,7 +25,6 @@
 - 26/08/2020 Interview to the [Kamer van Koophandel (KVK)](https://www.kvk.nl/advies-en-informatie/fraude/help-een-ddos-aanval-wat-nu/) on "DDoS attacks".
 - 26/07/2020 Interview to RAND Europe, commissioned by the *Wetenschappelijk Onderzoek- en Documentatiecentrum* (WODC), on behalf of the *Nationaal Coördinator Terrorismebestrijding en Veiligheid* (NCTV), on "the governance of cybersecurity from a national security perspective and critical infrastructure protection"
 
-
 ## 2019
 - 20/11/2019 [DEX-XL Politie Congress][organized by: Dutch National Politie; place: the Netherlands]
 - 05/11/2019 [Cybercrime Symposium][organized by: the Dutch National Police and TNO; place: the Netherlands]
@@ -36,4 +35,4 @@
 ## 2018
 - 02/10/2018 Presentation on "How to solve DDoS attacks", at [ONE conference](https://one-conference.nl/schedule-2018/day2/parallel-tracks/professionalizing-incident-respone-network-defense-ethics-standards-and-self-governance-1-1) [organized by: the Dutch National Cyber Crime Center (NCSC); place: the Netherlands]
 - 20/02/2018 [Pitch training for FAMELab](https://vimeo.com/318470345/c27cb73d6a) [organized by: University of Twente]
-
+- 21/02/2018 Host of the [Vigilance Symposium](https://symposia.inter-actief.utwente.nl/vigilance/)
