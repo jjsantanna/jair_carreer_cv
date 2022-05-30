@@ -2,6 +2,11 @@
 *last updated: 28/04/2021*
 
 ## 2022
+
+ 
+- 25/05/2022 round table discussion on ["transforming scientific research into entrepreneur innovation"](http://sbrc2022.sbc.org.br/en/hackathon/) at the Brazillian Society of Computer Networks (SBRC).
+- 24/05/2022 lecture on "Infrastructure Security and SOC" at the *Christelijke Hogeschool Ede,* the Netherlands.
+- 23/05/2022 lecture on "Future of Cybersecurity" to module "Futures" of the UTwente Bachelor Honours programme.
 - 07/04/2022 presenter at [Defcon Holland](https://www.defconholland.org/)
 - 16/03/2022 Host of the [Symposium Zephyrus](https://symposia.inter-actief.utwente.nl/zephyrus)
 
