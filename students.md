@@ -2,6 +2,7 @@
 
 | Year | Level | Name | Title | Class |
 |------|-------|------|-------|-------|
+|2022|B.Sc.|Iwan Grinwis|[Identifying the best Methods for Passive and Active Cybersecurity Assessment.](http://essay.utwente.nl/87319/1/Grinwis_BA_EEMCS.pdf)|
 |2021|M.Sc.|Julik Keijer|[Unsupervised Anomaly-Based Network Intrusion Detection Using Auto Encoders for Practical Use](http://essay.utwente.nl/86521/1/Julik_Keijer_MA_EEMCS.pdf)|ML A-NIDS|
 |2021|M.Sc.|Atif Khan|[Proposing and Deployment of Attractive Azure AD Honeypot With Varying Security Measures To Evaluate Their Performance Against Real Attacks](http://essay.utwente.nl/85992/1/Khan_MA_faculty.pdf)|AAD honeypot|
 |2020|B.Sc.|Nils van Noort|[Machine Learning for Monitoring Attacks in the Cloud](http://essay.utwente.nl/82147/1/vanNoort_BA_EEMCS.pdf)|Cloud Security|
