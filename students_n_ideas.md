@@ -1,4 +1,4 @@
-# Students 
+# Students and Ideas
 
 | Year | Level | Name | Title | Class |
 |------|-------|------|-------|-------|
