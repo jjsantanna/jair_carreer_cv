@@ -2,8 +2,9 @@
 *last updated: 28/04/2021*
 
 ## 2022
-
- 
+- Pannel discussion moderator on ["No More Ransom v2"](https://one-conference.nl/sessie/14-00-dag-1/no-more-ransom-v2/) at ONE conferenve
+- Keynote with Trelix ["On the leaked files from Conti ransomware group"](https://one-conference.nl/sessie/13-40/on-the-leaked-files-from-conti-ransomware-group/) at ONE conference
+- Keynote on ["Ransomware Marketplace and ecosystem"](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frubicongroup%2Fposts%2Fpfbid02t3SqQ8V8qmJ5gJRZAWBgmwRDvp6i2Hqn2verJU4udW3pErGgFEgMXkoLd8V7npVrl&show_text=true) at the Security Valley organized by Rubicon.
 - 25/05/2022 round table discussion on ["transforming scientific research into entrepreneur innovation"](http://sbrc2022.sbc.org.br/en/hackathon/) at the Brazillian Society of Computer Networks (SBRC).
 - 24/05/2022 lecture on "Infrastructure Security and SOC" at the *Christelijke Hogeschool Ede,* the Netherlands.
 - 23/05/2022 lecture on "Future of Cybersecurity" to module "Futures" of the UTwente Bachelor Honours programme.
