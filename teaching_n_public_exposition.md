@@ -1,7 +1,7 @@
 # Presentations
 *last updated: 28/04/2021*
 ## 2023
-- 12/10/2023 A way to Build your Modern Work Security Handbook at [the ALSO Cloud Summit 2023](https://www.also.com/ec/cms5/nl_2420/2420_ctv2023/2420/index.jsp)
+- 12/10/2023 "A way to Build yourModern Work Security Handbook" at [the ALSO Cloud Summit 2023](https://www.also.com/ec/cms5/nl_2420/2420_ctv2023/2420/index.jsp)
 - 06/06/2023 Cybersecurity and AI [International Cyber Security Conference 2023](https://northwave-cybersecurity.com/northwave-knowledge-network-agenda) ("Northwave Client event")
 
 
